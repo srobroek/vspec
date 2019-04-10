@@ -7,7 +7,7 @@ The child repos can be found at the following locations:
 
 # how to run
 - Install inspec (https://inspec.io)
-- clone this repo
+- clone the vspec-profiles repo
 - create a config file in each of the profiles (samples are provided)
 - run `inspec --exec psc --attrs path/to/your/config`
 

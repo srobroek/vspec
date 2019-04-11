@@ -1,6 +1,7 @@
 {
   "projects": {
     "vspec-profiles": "git@github.com:srobroek/vspec-profiles.git",
-    "vspec-resources": "git@github.com:srobroek/vspec-resources.git"
+    "inspec-vsphere": "git@github.com:srobroek/inspec-vsphere.git",
+    "train-vsphere": "git@github.com:srobroek/train-vsphere.git"
   }
 }

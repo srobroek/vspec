@@ -2,3 +2,4 @@ vspec-profiles-vsphere
 train-vsphere
 vspec-resources-vsphere
 .vscode
+.vscode/*

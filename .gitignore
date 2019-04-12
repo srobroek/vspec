@@ -1,5 +1,8 @@
 vspec-controls-vsphere
+vspec-controls-vsphere/*
 train-vsphere
+train-vsphere/*
 vspec-resources-vsphere
+vspec-resources-vsphere/*
 .vscode
 .vscode/*

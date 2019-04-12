@@ -3,7 +3,7 @@ vSpec is a set of inspec profiles specifically aimed at vsphere and VMware relat
 
 The child repos can be found at the following locations:
 - https://github.com/srobroek/vspec-profiles
-- https://github.com/srobroek/vsphere-resources
+- https://github.com/srobroek/inspec-vsphere
 - https://github.com/srobroek/train-vsphere
 
 

@@ -6,3 +6,4 @@ vspec-resources-vsphere
 vspec-resources-vsphere/*
 .vscode
 .vscode/*
+vspec-controls-vsphere-hardening

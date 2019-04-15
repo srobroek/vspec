@@ -3,6 +3,6 @@
     "vspec-controls-vsphere": "git@github.com:srobroek/vspec-controls-vsphere.git",
     "train-vsphere": "git@github.com:srobroek/train-vsphere.git",
     "vspec-resources-vsphere": "git@github.com:srobroek/vspec-resources-vsphere.git",
-    "vspec-controls-vsphere-hardening": "https://github.com/srobroek/vspec-controls-vsphere-hardening"
+    "vspec-controls-vsphere-hardening": "git@github.com:srobroek/vspec-controls-vsphere-hardening"
   }
 }

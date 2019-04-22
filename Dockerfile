@@ -9,7 +9,5 @@ RUN apk add --update build-base libxml2-dev libffi-dev git openssh-client && \
     gem install --no-document --source ${GEM_SOURCE} --version ${VERSION} inspec && \
     gem install --no-document --source ${GEM_SOURCE} train-vsphere && \
     apk del build-base
-ENTRYPOINT ["inspec"]
+ENTRYPOINT ["/bin/sh"]
 CMD ["help"]
-VOLUME ["/share"]
-WORKDIR /share
